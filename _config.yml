@@ -997,3 +997,11 @@ vendors:
 css: css
 js: js
 images: images
+
+# post_end_tag:
+post_end_tag:
+    enabled: true
+    icon: paw
+
+# mouse click effect: fireworks | explosion | love | text
+cursor_effect: fireworks
