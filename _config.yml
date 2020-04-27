@@ -31,7 +31,7 @@ custom_file_path:
   #bodyEnd: source/_data/body-end.swig
   #variable: source/_data/variables.styl
   #mixin: source/_data/mixins.styl
-  #style: source/_data/styles.styl
+  style: themes/next/source/css/_custom/styles.styl
 
 
 # ---------------------------------------------------------------
@@ -370,7 +370,7 @@ back2top:
   # Back to top in sidebar.
   sidebar: false
   # Scroll percent label in b2t button.
-  scrollpercent: true
+  scrollpercent: false
 
 # Reading progress bar
 reading_progress:
